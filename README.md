@@ -38,7 +38,7 @@ Actualmente formo parte de los equipos de **Data Engineering y Advanced Analytic
 ---
 
 ## 📚 Educación  
-- **Bachiller en Ingeniería de Sistemas e Informática**  
+- **Ingeniero de Sistemas e Informática**  
   *Universidad Continental (2018 - 2025)*  
   Logros: Tercio, quinto y décimo superior, beneficiario de 7 becas completas.  
 
