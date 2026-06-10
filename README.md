@@ -7,7 +7,26 @@
 
 📄 **[CV- Ingaroca Jhim](https://drive.google.com/file/d/1wuZjAwv3Q8lFaByHGw-eNLRYQGieQWjX/view?usp=sharing)**  
 
+---
+
+## 🚀 Enfoque Actual y Tecnologías Core  
+- **☁️ Cloud Computing Multi-Entorno:** Arquitectura, desarrollo y gestión de infraestructura utilizando **Microsoft Azure (Azure Cloud, Azure App Service, Azure AI Foundry)**, **Google Cloud (Google Compute Engine, Cloud Vision API)** y **Huawei Cloud**.
+- **🤖 Automatización:** Diseño de pipelines, optimización de procesos operativos, estructuración ordenada de repositorios y migración eficiente de servicios locales a la nube.
+- **💬 Chatbots y Agentes de IA:** Desarrollo de asistentes inteligentes virtuales (bots multiagente, arquitecturas RAG e indexación de documentos) integrados en plataformas web (SPA) y entornos colaborativos corporativos como **Microsoft Teams**.
+
+### **Infraestructura Cloud Core:**
+![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud Engine](https://img.shields.io/badge/Google_Compute_Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-7B1FA2?style=for-the-badge&logo=huawei&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
 Soy Ingeniero de Sistemas e Informática por la Universidad Continental, con un historial destacado en excelencia académica (tercio, quinto y décimo superior). Mi enfoque principal está en desarrollar soluciones tecnológicas eficientes, desde sistemas basados en inteligencia artificial hasta proyectos de ciberseguridad, análisis de datos y dirección de proyectos con metodologías ágiles.  
+
+Actualmente formo parte de los equipos de **Data Engineering y Advanced Analytics**, impulsando implementaciones de infraestructura en la nube, optimización de recursos y asistentes inteligentes para la automatización de procesos corporativos.
 
 ---
 
@@ -41,7 +60,6 @@ Conocimientos sólidos en diversos lenguajes de programación utilizados para de
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ### **Herramientas de IA:**  
-
 Con experiencia en el uso de herramientas de inteligencia artificial para optimización de procesos:  
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)  
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)  
@@ -51,7 +69,6 @@ Con experiencia en el uso de herramientas de inteligencia artificial para optimi
 
 ### **Ciberseguridad:**  
 Conocimientos prácticos en herramientas como **Metasploit Framework**, **Nmap**, y estrategias de seguridad digital:  
-
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)  
@@ -59,7 +76,6 @@ Conocimientos prácticos en herramientas como **Metasploit Framework**, **Nmap**
 
 ### **Análisis de Datos:**  
 Familiaridad con herramientas como Power BI y metodologías de Business Intelligence:  
-
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
 ### **Entornos de Desarrollo:**  
@@ -72,15 +88,17 @@ Familiaridad con los siguientes entornos de desarrollo:
 
 ## 🔑 Skills Técnicas  
 - Gestión de proyectos con **metodologías ágiles** (Scrum, Lean) y enfoques innovadores.  
-- Desarrollo de aplicaciones web y móviles con el stack MERN.  
+- Desarrollo de aplicaciones web y móviles con el stack MERN y entornos híbridos (Flutter).  
+- Implementación de soluciones basadas en cloud computing, automatización de procesos industriales/operativos y chatbots inteligentes (RAG / Multiagente).  
+- Integración y migración de servicios web de visión artificial mediante Google Cloud Vision API.  
 - Implementación de soluciones basadas en ciberseguridad y hacking ético.  
 - Dirección de equipos multidisciplinarios en proyectos tecnológicos.  
-- Análisis y optimización de procesos empresariales mediante tecnologías avanzadas.  
+- Análisis y optimización de procesos empresariales mediante tecnologías avanzadas y orden en arquitectura de datos.  
 
 ## 🌟 Soft Skills  
 - Liderazgo y trabajo en equipo.  
 - Aprendizaje rápido y adaptabilidad.  
-- Comunicación efectiva y resolución de problemas complejos.  
+- Comunicación efectiva y resolución de problemas complejos (optimización de recursos informáticos).  
 - Puntualidad y compromiso con la excelencia.  
 
 ---
@@ -102,13 +120,16 @@ Familiaridad con los siguientes entornos de desarrollo:
 ---
 
 ## 🚀 Proyectos Recientes  
+- **DroidOps — Asistente de IA Operacional en MS Teams:** Diseño, configuración de manifiesto y despliegue de un bot inteligente especializado en asistir en procedimientos del área de Tecnología Operacional (OT).  
+- **Chatbot Multi-Agente Web Corporativo:** Arquitectura e integración de un chatbot basado en múltiples agentes e indexación de conocimiento en la nube mediante Azure App Service y Single-Page Application (SPA).  
+- **Optimización de API de Validación Fotográfica:** Migración de flujos de verificación e identificación visual de imágenes hacia Google Cloud Vision API para corregir parámetros y estabilizar errores de procesamiento.  
 - **Sistema de Reconocimiento Visual para Artesanía Inka Roca:** Desarrollo de un sistema basado en deep learning para identificar productos artesanales.  
 - **Aplicación de Entrenamiento Personal:** Desarrollo de una app con el stack MERN, siguiendo la metodología Git Flow y con integración Docker.  
-- **StudyShare:** Plataforma colaborativa para estudiantes que permite compartir recursos educativos, crear grupos de estudio y gestionar proyectos académicos de manera efectiva.
+- **StudyShare:** Plataforma colaborativa para estudiantes que permite compartir recursos educativos, crear grupos de estudio y gestionar proyectos académicos de manera efectiva.  
 - **Propuesta de Implementación de Base de Datos para una Artesanía:** Diseño y desarrollo de una base de datos en MySQL para optimizar la gestión de inventarios y ventas en un centro artesanal.  
 
 ---
 
 ## 📂 Gestión de Proyectos  
 Conocimientos en metodologías ágiles como **Scrum** y **Lean** para dirigir equipos y optimizar procesos en proyectos tecnológicos.  
-Además, familiaridad con metodologías simplificadas para el diseño y desarrollo de modelos de **Deep Learning**, adaptándolas a las necesidades del proyecto y maximizando la eficiencia.  
+Además, familiaridad con metodologías simplificadas para el diseño y desarrollo de modelos de **Deep Learning**, adaptándolas a las necesidades del proyecto y maximizando la eficiencia.
