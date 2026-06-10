@@ -7,7 +7,7 @@
 
 📄 **[CV- Ingaroca Jhim](https://drive.google.com/file/d/1wuZjAwv3Q8lFaByHGw-eNLRYQGieQWjX/view?usp=sharing)**  
 
-Soy Bachiller en Ingeniería de Sistemas e Informática por la Universidad Continental, con un historial destacado en excelencia académica (tercio, quinto y décimo superior). Mi enfoque principal está en desarrollar soluciones tecnológicas eficientes, desde sistemas basados en inteligencia artificial hasta proyectos de ciberseguridad, análisis de datos y dirección de proyectos con metodologías ágiles.  
+Soy Ingeniero de Sistemas e Informática por la Universidad Continental, con un historial destacado en excelencia académica (tercio, quinto y décimo superior). Mi enfoque principal está en desarrollar soluciones tecnológicas eficientes, desde sistemas basados en inteligencia artificial hasta proyectos de ciberseguridad, análisis de datos y dirección de proyectos con metodologías ágiles.  
 
 ---
 
